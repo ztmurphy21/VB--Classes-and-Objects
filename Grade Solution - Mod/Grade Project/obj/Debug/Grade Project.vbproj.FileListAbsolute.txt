@@ -1,0 +1,22 @@
+D:\College\Visual Basic\VB2015\Chap11\Grade Solution\Grade Project\bin\Debug\Grade Project.exe.config
+D:\College\Visual Basic\VB2015\Chap11\Grade Solution\Grade Project\bin\Debug\Grade Project.exe
+D:\College\Visual Basic\VB2015\Chap11\Grade Solution\Grade Project\bin\Debug\Grade Project.pdb
+D:\College\Visual Basic\VB2015\Chap11\Grade Solution\Grade Project\bin\Debug\Grade Project.xml
+D:\College\Visual Basic\VB2015\Chap11\Grade Solution\Grade Project\obj\Debug\Grade Project.vbprojResolveAssemblyReference.cache
+D:\College\Visual Basic\VB2015\Chap11\Grade Solution\Grade Project\obj\Debug\Grade_Project.frmMain.resources
+D:\College\Visual Basic\VB2015\Chap11\Grade Solution\Grade Project\obj\Debug\Grade_Project.Resources.resources
+D:\College\Visual Basic\VB2015\Chap11\Grade Solution\Grade Project\obj\Debug\Grade Project.vbproj.GenerateResource.Cache
+D:\College\Visual Basic\VB2015\Chap11\Grade Solution\Grade Project\obj\Debug\Grade Project.exe
+D:\College\Visual Basic\VB2015\Chap11\Grade Solution\Grade Project\obj\Debug\Grade Project.xml
+D:\College\Visual Basic\VB2015\Chap11\Grade Solution\Grade Project\obj\Debug\Grade Project.pdb
+D:\College\Visual Basic\VB--Classes-and-Objects\Grade Solution - Mod\Grade Project\bin\Debug\Grade Project.exe.config
+D:\College\Visual Basic\VB--Classes-and-Objects\Grade Solution - Mod\Grade Project\obj\Debug\Grade Project.exe
+D:\College\Visual Basic\VB--Classes-and-Objects\Grade Solution - Mod\Grade Project\obj\Debug\Grade Project.xml
+D:\College\Visual Basic\VB--Classes-and-Objects\Grade Solution - Mod\Grade Project\obj\Debug\Grade Project.pdb
+D:\College\Visual Basic\VB--Classes-and-Objects\Grade Solution - Mod\Grade Project\bin\Debug\Grade Project.exe
+D:\College\Visual Basic\VB--Classes-and-Objects\Grade Solution - Mod\Grade Project\bin\Debug\Grade Project.pdb
+D:\College\Visual Basic\VB--Classes-and-Objects\Grade Solution - Mod\Grade Project\bin\Debug\Grade Project.xml
+D:\College\Visual Basic\VB--Classes-and-Objects\Grade Solution - Mod\Grade Project\obj\Debug\Grade Project.vbprojResolveAssemblyReference.cache
+D:\College\Visual Basic\VB--Classes-and-Objects\Grade Solution - Mod\Grade Project\obj\Debug\Grade_Project.frmMain.resources
+D:\College\Visual Basic\VB--Classes-and-Objects\Grade Solution - Mod\Grade Project\obj\Debug\Grade_Project.Resources.resources
+D:\College\Visual Basic\VB--Classes-and-Objects\Grade Solution - Mod\Grade Project\obj\Debug\Grade Project.vbproj.GenerateResource.Cache
