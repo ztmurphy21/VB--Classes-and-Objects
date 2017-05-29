@@ -1,0 +1,11 @@
+D:\College\Visual Basic\VB2015\Chap11\Area Solution\Area Project\bin\Debug\Area Project.exe.config
+D:\College\Visual Basic\VB2015\Chap11\Area Solution\Area Project\bin\Debug\Area Project.exe
+D:\College\Visual Basic\VB2015\Chap11\Area Solution\Area Project\bin\Debug\Area Project.pdb
+D:\College\Visual Basic\VB2015\Chap11\Area Solution\Area Project\bin\Debug\Area Project.xml
+D:\College\Visual Basic\VB2015\Chap11\Area Solution\Area Project\obj\Debug\Area Project.vbprojResolveAssemblyReference.cache
+D:\College\Visual Basic\VB2015\Chap11\Area Solution\Area Project\obj\Debug\Area_Project.frmMain.resources
+D:\College\Visual Basic\VB2015\Chap11\Area Solution\Area Project\obj\Debug\Area_Project.Resources.resources
+D:\College\Visual Basic\VB2015\Chap11\Area Solution\Area Project\obj\Debug\Area Project.vbproj.GenerateResource.Cache
+D:\College\Visual Basic\VB2015\Chap11\Area Solution\Area Project\obj\Debug\Area Project.exe
+D:\College\Visual Basic\VB2015\Chap11\Area Solution\Area Project\obj\Debug\Area Project.xml
+D:\College\Visual Basic\VB2015\Chap11\Area Solution\Area Project\obj\Debug\Area Project.pdb
